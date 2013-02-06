@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 15.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_top": 3,
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"open_files_in_new_window": true
+}
