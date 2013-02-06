@@ -8,7 +8,7 @@
 	[
 		"Vintage"
 	],
-	"line_padding_top": 3,
+	"line_padding_top": 2,
 	"scroll_past_end": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
