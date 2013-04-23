@@ -15,5 +15,8 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
 	"open_files_in_new_window": false,
-	"show_full_path": true
+	"show_full_path": true,
+	"theme": "Soda Dark.sublime-theme",
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true
 }
