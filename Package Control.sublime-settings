@@ -3,15 +3,15 @@
 	"installed_packages":
 	[
 		"AutoFileName",
+		"BracketHighlighter",
+		"Browser Refresh",
 		"CSS Snippets",
 		"HTML5",
 		"LESS",
-		"LESS-build",
 		"Package Control",
+		"SublimeLinter",
 		"Tag",
 		"Theme - Nexus",
-		"Theme - Night",
-		"Theme - Phoenix",
 		"Theme - Soda"
 	]
 }
