@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
 		"Browser Refresh",
@@ -9,6 +10,8 @@
 		"HTML5",
 		"LESS",
 		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Tag",
 		"Theme - Nexus",
