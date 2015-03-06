@@ -1,20 +1,26 @@
 {
-	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"All Autocomplete",
 		"AutoFileName",
+		"Better CoffeeScript",
 		"BracketHighlighter",
-		"Browser Refresh",
+		"Codecs33",
+		"ConvertToUTF8",
 		"CSS Snippets",
 		"HTML5",
 		"LESS",
+		"LineEndings",
+		"Markmon real-time markdown preview",
 		"Package Control",
-		"SideBarEnhancements",
+		"SCSS",
+		"Smart Delete",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"Sublimerge Pro",
 		"Tag",
-		"Theme - Nexus",
-		"Theme - Soda"
+		"Theme - Spacegray"
 	]
 }
